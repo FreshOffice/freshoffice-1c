@@ -2,6 +2,8 @@
 
 Обработка **FreshOfficeCRM.epf** переносит данные между 1С:Предприятием 8.3 и FreshOffice CRM: контрагентов, номенклатуру, остатки, документы и оплаты.
 
+📖 **Подробная инструкция:** [help.freshoffice.ru — 1С:Предприятие](https://help.freshoffice.ru/integration/1c.html)
+
 ## Скачать
 
 Последняя версия — в разделе **[Releases](../../releases/latest)**: файл `FreshOfficeCRM.epf`.
@@ -38,6 +40,7 @@
 
 ## Помощь
 
+- Инструкция по обмену с 1С: **[help.freshoffice.ru/integration/1c](https://help.freshoffice.ru/integration/1c.html)**
 - Справочный центр: **[help.freshoffice.ru](https://help.freshoffice.ru)**
 - Чат поддержки — прямо в FreshOffice CRM.
 
